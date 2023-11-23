@@ -1,0 +1,29 @@
+body {
+  font-family: "Noto Sans JP", sans-serif;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  width: 100%;
+}
+
+@-webkit-keyframes animeAnime {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+@keyframes animeAnime {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+#hoge {
+  width: 200px;
+  height: 200px;
+  background-color: aqua;
+}/*# sourceMappingURL=style.css.map */

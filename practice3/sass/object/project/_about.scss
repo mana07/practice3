@@ -1,0 +1,13 @@
+
+@use "./../../foundation/animation";
+
+#hoge{
+  width: 200px;
+  height: 200px;
+  background-color: aqua;
+  @include animation(animeAnime 2s ease 2s);
+}
+
+
+
+
